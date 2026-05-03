@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+nbformat
+nbclient
+
+# Optional: if installed, the notebook will use TensorFlow/Keras for
+# the dense neural network. Otherwise it uses sklearn MLPClassifier.
+# tensorflow
