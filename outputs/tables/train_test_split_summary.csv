@@ -1,0 +1,3 @@
+split,samples,features,healthy_normal_0,tumor_cancerous_1
+train,33,43697,7,26
+test,11,43697,2,9

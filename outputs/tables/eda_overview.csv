@@ -1,0 +1,8 @@
+Metric,Value
+Number of samples,44
+Number of genes/features,43697
+Missing feature values,0
+Missing target values,0
+Duplicate samples,0
+Healthy/Normal samples (0),9
+Tumor/Cancerous samples (1),35

@@ -1,0 +1,6 @@
+Phase,Category,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Baseline,Traditional ML,Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Baseline,Ensemble,Random Forest,1.0,1.0,1.0,1.0,1.0
+Baseline,Deep Learning,Neural Network (MLP fallback),1.0,1.0,1.0,1.0,1.0
+Optimized,Traditional ML,Optimized Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Optimized,Ensemble,Optimized Random Forest,1.0,1.0,1.0,1.0,1.0

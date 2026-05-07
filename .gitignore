@@ -15,8 +15,6 @@ ENV/
 # Jupyter
 .ipynb_checkpoints/
 
-# Generated project outputs
-outputs/
 
 # Local environment files
 .env

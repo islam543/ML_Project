@@ -1,0 +1,3 @@
+Model Family,Baseline F1,Optimized F1,F1 Change,Baseline ROC-AUC,Optimized ROC-AUC,ROC-AUC Change,Baseline Accuracy,Optimized Accuracy,Accuracy Change
+Logistic Regression,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0
+Random Forest,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0
